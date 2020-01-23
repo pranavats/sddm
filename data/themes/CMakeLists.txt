@@ -1,4 +1,4 @@
-set(THEMES elarun maldives maya)
+set(THEMES elarun maldives maya slice)
 
 foreach(THEME ${THEMES})
     # We assume that theme-specific translations are stored
